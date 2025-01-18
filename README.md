@@ -1,2 +1,2 @@
 # resolucao_sinerji
-Resolução do teste de programação para caga de estágio da Sinerji
+Resolução do teste de programação para vaga de estágio da Sinerji
